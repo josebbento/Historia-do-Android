@@ -92,7 +92,7 @@ main h1{
     color: var(--titulo);
     font-family:var(--fonte-android);
     font-weight: normal;
-    font-size: 1.8em;
+    font-size: 1.6em;
 }
 main h2{
     color: var(--titulo2);
